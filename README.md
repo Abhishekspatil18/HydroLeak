@@ -29,7 +29,7 @@ When abnormal water flow indicating a leakage is detected, HydroLeak automatical
 ## 📷 Circuit Diagram
 
 <p align="center">
-  <img src="Image/circuit_diagram.jpg" alt="HydroLeak Circuit Diagram" width="800">
+  <img src="Image/circuit_diagram.jpeg" alt="HydroLeak Circuit Diagram" width="800">
 </p>
 
 The above circuit diagram illustrates the hardware connections between the ESP32, Water Flow Sensor, GPS Module, Relay Module, Water Pump, and Buzzer used in the HydroLeak system.
